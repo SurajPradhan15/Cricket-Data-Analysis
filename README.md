@@ -57,7 +57,6 @@ Created using **Power BI** with clean and connected datasets:
 
 ![Dashboard Preview](dashboard.png)
 
-> *Make sure the image file is named `dashboard.png` and is in the root directory of your repository.*
 
 ---
 
